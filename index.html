@@ -21,16 +21,14 @@
 						<div class="inner">
 
 							<!-- Header -->
-							<script>
-							include_head.html();
-							</script>
-							<head>
-							<script> 
-							$(function(){
-							  $("#header").load("include_head.html"); 
-							});
-							</script> 
-							</head>
+							<header>
+								<script>  
+								$(function(){ 
+								  $("#header").load("include_head.html");  
+								  $("#footer").load("footer.html");  
+								}); 
+								</script>
+							</header>
 
 							<!-- Banner -->
 								<section id="banner">
