@@ -25,6 +25,14 @@
 				width: 100%;
 			}
 		}
+		&.right2 {
+			max-width: 40%;
+			max-height: 40%;
+
+			img {
+				width: 100%;
+			}
+		}
 
 		&.left {
 			float: left;
@@ -33,6 +41,11 @@
 		}
 
 		&.right {
+			float: right;
+			padding: 0 0 1em 1.5em;
+			top: 0.25em;
+		}
+		&.right2 {
 			float: right;
 			padding: 0 0 1em 1.5em;
 			top: 0.25em;
