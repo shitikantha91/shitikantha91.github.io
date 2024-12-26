@@ -92,7 +92,7 @@ body {
 /* Type */
 body, input, select, textarea {
   color: #7f888f;
-  font-family: "cambria"; <!--"Open Sans", sans-serif;-->
+  font-family: Cambria, sans-serif; <!--"Open Sans", sans-serif;-->
   font-size: 13pt;
   font-weight: 400;
   line-height: 1.65; }
