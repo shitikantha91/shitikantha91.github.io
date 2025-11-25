@@ -1,3 +1,6 @@
+Citation: Shitikantha Dash, Dikshit Chauhan, Dipti Srinivasan, “Profit-Aware EV Utilisation Model in a Sustainable Smart City: A Joint Optimisation over EV System, Urban Power Grid System and City's Road Grid System,” MDPI Smart Cities, 2025.
+
+
 CG-PG Mapping
 =============
 
@@ -69,3 +72,4 @@ Sl. no. of EV | Arrival time | Departure time | Arrival Energy | Desired Energy
 28	43	62	11	50
 29	44	83	15.50	50
 30	46	54	13	50
+
