@@ -1,3 +1,6 @@
+Environment and EVs' energy and time information
+==================================================
+
 Citation: Shitikantha Dash, Anupam Trivedi and Dipti Srinivasan, "A smart electric vehicle scheduling mechanism for peak load management in commercial buildings," IEEE Transactions on Intelligent Transportation, 2026 (Under review)
 
 Contact and more details: https://shitikantha91.github.io/index.html
